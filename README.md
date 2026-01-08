@@ -38,6 +38,11 @@ Git et GitHub
 J'ai réalisé notamment la partie backend d'un site web de notation de livre. 
 Lors de ce projet j'ai en particulier travaillé sur la correction des erreurs de structure de requête et les format de donnés ainsi la mise a place des contraintes de sécurité. 
 
+Technologies utilisées pour le projet:  
+Javascript  
+Node.js
+
+
 
 
 
