@@ -23,7 +23,8 @@ css
 
 **Framework frontend:**  
 React  
-**Librairie backend:**  
+
+**Environement backend:**  
 Node.js
 
 **Langage pour les bases de données:**  
