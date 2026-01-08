@@ -3,28 +3,40 @@
 
 ## Présentation 
 
- Claudia Laffargue a une Licence de philosophie paris 4 La sorbone. 
- Elle bilingue en anglais, et à enseignant cette langue en milieux scolaire et cours particulier.
+ J'ai étudié la philosophie à la Sorbonne. 
+ Je suis bilingue en anglais, je l'ai enseigné en milieux scolaire et cours particulier.
 
- Elle dispose aussi expérience profession en relation client notamment en banque d'affaire.  
+ Après diverses expériences en relation client en entreprise et notamment en banque d'affaire, j'ai entrepris une reconversion professionnelle en informatique dans l'optique d'un métier plus techniques et scientifique. 
 
-Elle a commencé une reconversion professionnelle afin de se réorienter vers des activités plus technique et scientifique. 
+J'ai suivi des cours du soir par le CNAM de Paris, puis a validé un Titre RNCP niveau 5 Développeur Web chez OpenClassrooms. 
 
-Dans le cadre de ce projet de reconversion en informatique, elle a suivi des cours du soir par CNAM, puis a validé Titre RNCP niveau 5 développeur web chez open class. 
-
-Et elle entamer developper IA simplon ISEN Titre RNCP niveau 6 pour compléter ses compétance et aquérir de l'expérience professionelle.  
-
- 
+Je poursuis actuellement une formation de Développeur IA à l'ISEN Méditerranée pour compléter mes compétences et aquérir de l'expérience professionnelle. 
 
 
 ## compétence technique 
 
+**Langages web:**  
+Java  
+javascript  
+html  
+css
 
- **java**, **javascript**, html, css, note.js, SQL, react  
+**Framework frontend:**  
+React  
+**Librairie backend:**  
+Node.js
 
-## projet 
+**Langage pour les bases de données:**  
+SQL
 
-Elle a réalisé notamment un Projet backend d'API de site web de notation de livre. Et a travaillé sur la correction des erreurs de structure de requête et format de donnés. Et Mise a place des contraint de sécurité post développement du produit. 
+**Gestion de version:**  
+Git et GitHub
+
+
+## projet récent
+
+J'ai réalisé notamment la partie backend d'un site web de notation de livre. 
+Lors de ce projet j'ai en particulier travaillé sur la correction des erreurs de structure de requête et les format de donnés ainsi la mise a place des contraintes de sécurité. 
 
 
 
