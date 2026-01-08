@@ -8,7 +8,7 @@
 
  Après diverses expériences en relation client en entreprise et notamment en banque d'affaire, j'ai entrepris une reconversion professionnelle en informatique dans l'optique d'un métier plus techniques et scientifique. 
 
-J'ai suivi des cours du soir une formation de Développeur d'applications Java par le CNAM de Paris, puis j'ai validé un Titre RNCP niveau 5 Développeur Web chez OpenClassrooms. 
+J'ai suivi en cours du soir une formation de Développeur d'applications Java par le CNAM de Paris, puis j'ai validé un Titre RNCP niveau 5 Développeur Web chez OpenClassrooms. 
 
 Je poursuis actuellement une formation de Développeur IA à l'ISEN Méditerranée pour compléter mes compétences et aquérir de l'expérience professionnelle. 
 
