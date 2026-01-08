@@ -4,11 +4,11 @@
 ## Présentation 
 
  J'ai étudié la philosophie à la Sorbonne. 
- Je suis bilingue en anglais, je l'ai enseigné en milieux scolaire et cours particulier.
+ Je suis bilingue en anglais, je l'ai enseigné en milieux scolaire et en cours particuliers.
 
  Après diverses expériences en relation client en entreprise et notamment en banque d'affaire, j'ai entrepris une reconversion professionnelle en informatique dans l'optique d'un métier plus techniques et scientifique. 
 
-J'ai suivi des cours du soir par le CNAM de Paris, puis a validé un Titre RNCP niveau 5 Développeur Web chez OpenClassrooms. 
+J'ai suivi des cours du soir une formation de Développeur d'applications Java par le CNAM de Paris, puis j'ai validé un Titre RNCP niveau 5 Développeur Web chez OpenClassrooms. 
 
 Je poursuis actuellement une formation de Développeur IA à l'ISEN Méditerranée pour compléter mes compétences et aquérir de l'expérience professionnelle. 
 
