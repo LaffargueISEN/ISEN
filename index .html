@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio – Claudia Laffargue</title>
+  <meta name="description" content="Portfolio statique en HTML et CSS" />
+  <!-- Police Inter (Google Fonts) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <!-- Feuille de style -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <nav class="nav">
+        <a href="#" class="logo">CL</a>
+        <ul class="nav-links">
+          <li><a href="#projets">Projets</a></li>
+          <li><a href="#apropos">À propos</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="hero">
+        <h1>Bonjour, je suis <span>Claudia Laffargue</span></h1>
+        <p>Portfolio statique en <strong>HTML</strong> & <strong>CSS</strong> — responsive et rapide.</p>
+        <a class="btn" href="#projets">Voir mes projets</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="projets" class="section">
+      <div class="container">
+        <h2>Projets récents</h2>
+        <div class="grid">
+          <article class="card">
+            <h3>Projet backend</h3>
+            <p>Réalisation de la partie backend d'un site de notation de livres. Technologies : Javascript, Node.js</p>
+            <a href="#" class="link">Voir le code du projet →</a>
+          </article>
+          
+        </div>
+      </div>
+    </section>
+
+    <section id="apropos" class="section alt">
+      <div class="container">
+        <h2>À propos</h2>
+        <p>Après des études en philosophie des sciences, je me forme en informatique dans l'optique d'un métier technique et scientifique.<br>
+          Je commence par suivre des cours du soir par le Cnam pendant laquelle j'apprends les bases de la programmation en Java puis j'entreprends la formation de Développeur Web chez OpenClassrooms.<br>
+        Je poursuis actuellement une formation en IA à l'ISEN Méditerranée en alternance afin de compléter mes compétences et acquérir de l'expérience professionnelle.</p>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="container">
+        <h2>Contact</h2>
+        <ul class="contact-list">
+          <li><strong>Email :</strong> <a href="mailto:claudia.laffargue@isen.ycrea.fr">claudia.laffargue@isen.yncrea.fr</a></li>
+          <li><strong>GitHub :</strong> <a href="https://github.com/LaffargueISEN/ISEN" target="_blank" rel="noopener noreferrer">https://github.com/LaffargueISEN/ISEN</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© 2026 Claudia Laffargue — Fait en HTML & CSS.</p>
+    </div>
+  </footer>
+</body>
+</html>
